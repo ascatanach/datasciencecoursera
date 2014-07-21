@@ -1,0 +1,6 @@
+Git commands
+============
+%git clone <url>
+%git add -A
+%git commit -m "comment"
+%git push
